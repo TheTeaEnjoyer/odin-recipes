@@ -17,8 +17,28 @@ div {
     justify-content: center;
 }
 
-img {
+#decoration {
     margin-top: 50px;
     width: 500px;
     height: auto;
+}
+
+.main {
+    width: 500px;
+    height: auto;
+}
+
+.section1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.desc {
+    width: 600px;
+}
+
+.descriptions {
+    display: flex;
+    flex-direction: column;
+    
 }
